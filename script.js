@@ -1,8 +1,11 @@
-import { Toast } from 'bootstrap.esm.min.js'
+ $(document).ready(function(){
+        $('.toast').toast('show');
+      
+        $("button").click(function(){
+            $(".toast d-flex align-items-center").hide();
+            $(".LI-profile-badge").hide();
+        });
+    
 
-  Array.from(document.querySelectorAll('.toast'))
-    .forEach(toastNode => new Toast(toastNode))
+    });
 
-//$('.toast').toast(option)
-
-$('toast d-flex align-items-center').toast('show')
