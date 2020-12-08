@@ -4,3 +4,7 @@ Font-Size: 52px;
 Font-Family: 'Crimson Text', Serif;
 Font-Size: 19px;
 }
+
+.toast {
+    all: initial;
+}
