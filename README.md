@@ -1,5 +1,5 @@
 # Mindy Ratcliff Responsive Portfolio
-Created portfolio and contact page for self utilizing CSS Bootstrap and HTML. The site contains original content and personally made videos and games available to demonstrate my abilities in web development, writing and editing, and Ashtanga Yoga. It is intended to be use as a personal site and allow interested parties to contact the owner for business endeavors.
+Created portfolio and contact page for self utilizing CSS Bootstrap and HTML. The site contains original content and personally made videos and games available to demonstrate my abilities in web development, writing and editing, and Ashtanga Yoga. It is intended to be used as a personal site and allow interested parties to contact the owner for business endeavors.
 
 ## Table of Contents
 
