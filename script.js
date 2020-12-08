@@ -1,4 +1,8 @@
-var toastElList = [].slice.call(document.querySelectorAll('.toast'))
-var toastList = toastElList.map(function (toastEl) {
-  return new bootstrap.Toast(toastEl, option)
-})
+import { Toast } from 'bootstrap.esm.min.js'
+
+  Array.from(document.querySelectorAll('.toast'))
+    .forEach(toastNode => new Toast(toastNode))
+
+//$('.toast').toast(option)
+
+$('toast d-flex align-items-center').toast('show')
