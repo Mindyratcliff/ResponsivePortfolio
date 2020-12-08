@@ -6,6 +6,12 @@ Font-Family: 'Crimson Text', Serif;
 Font-Size: 19px;
 }
 
+#indexLinks :hover {
+    color: #ff10af;
+    box-shadow: 0 0 5px #ff10af;
+    
+}
+
 .toast {
-    all: initial;
+    background-color: ivory;
 }
