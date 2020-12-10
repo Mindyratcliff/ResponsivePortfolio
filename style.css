@@ -16,7 +16,6 @@ a {
 }
 
 a:hover {
-    color: #17e9e0;
     font-weight: bold;
 }
 
@@ -36,8 +35,5 @@ a:hover {
 
 form {
     background-color: #F5E6CC;
-    margin: 2px 2px 2px 2px;
-    padding: 2px 2px 2px 2px;
-    border: 6px 6px 6px 6px;
-    border-color: #17e9e0;
+    
 }
