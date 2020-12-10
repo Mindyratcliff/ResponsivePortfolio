@@ -19,9 +19,24 @@ a:hover {
   font-weight: bold;
 }
 
-#indexLinks:hover {
-  color: #ff10af;
-  box-shadow: 0 0 5px #ff10af;
+#indexLinks {
+    margin-top: 5px;
+    padding-top: 5px;
+}
+
+#indexLink {
+    border: 5px solid #f5e6cc;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+
+}
+
+#indexLink:hover {
+    box-shadow: 10px 10px 5px #f5e6cc;
+  
+
+  
 }
 
 .toast {
@@ -32,6 +47,4 @@ a:hover {
   background-color: #f5e6cc;
 }
 
-form {
-  background-color: #f5e6cc;
-}
+
